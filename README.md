@@ -8,3 +8,27 @@ Data Science Projects/Protfolio
 -
 -
 -
+# Project 2: Image Classifier
+-
+-
+-
+-
+-
+# Project 3: Regression
+-
+-
+-
+-
+-
+-
+# Project 4: Deep Learning
+-
+-
+-
+-
+-
+# Project 5:Reinforcement Learning contorl of aircraft
+-
+-
+-
+-
